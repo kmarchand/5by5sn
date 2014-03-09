@@ -9,6 +9,9 @@ This workflow retrieves the list of podcasts and show art currently listed at ht
 
 If you hit `enter` on a selected show name from the `sn` keyword it will automatically launch the `shownotes for {showname}` search to get the recent show notes.
 
+![screenshot1](https://raw.github.com/kmarchand/5by5sn/master/5by5sn-1.png "Screenshot1")
+![screenshot2](https://raw.github.com/kmarchand/5by5sn/master/5by5sn-2.png "Screenshot2")
+
 ## Note
 
 This workflow was not written in coordination with 5by5 and a change to the layout of the site could cause it to no longer work.
